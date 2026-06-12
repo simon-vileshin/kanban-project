@@ -28,3 +28,5 @@ Open [http://localhost:3000](http://localhost:3000).
 npm test
 npm run test:e2e
 ```
+
+E2E tests run on port 3099 so they do not conflict with the dev server on port 3000.
